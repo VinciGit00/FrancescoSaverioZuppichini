@@ -6,14 +6,18 @@
 </p>
 
 ### About me :rocket:
-- 🎓  I am a Deep Learning (mostly Computer Vision) Engineer  @~~PwC~~ ~~[V7](https://www.v7labs.com/)~~ ~~[hugging face](https://huggingface.co/)~~ ~~[RoboFlow](https://roboflow.com/)~~ [Zurich Insurance](https://www.zurich.it/)
+- 🎓 Head of Engineering @ [ScrapegraphAI](https://scrapegraphai.com)
 - ❤️ I am passionate about **Software Engineering, Open-Source, Machine Learning/Deep Learning, Computer Vision and Robotics** 
 - 📜 BSc Informatics and MSc Artificial Intelligence
 - 📫 How to reach me: francesco.zuppichini@gmail.com
-- 🏠 ~~Zurich(🇨🇭)~~ Lugano(🇨🇭) 
+- 🏠 Lugano(🇨🇭)
 
+### Past Experience
+- [Zurich Insurance](https://www.zurich.it/) - Deep Learning Engineer
+- [RoboFlow](https://roboflow.com/) - Computer Vision Engineer
+- [Hugging Face](https://huggingface.co/) - ML Engineer
+- [V7](https://www.v7labs.com/) - Computer Vision Specialist
+- [PwC](https://www.pwc.com/) - Data Science Consultant
 
 [![Francesco's github stats](https://github-readme-stats.vercel.app/api?username=FrancescoSaverioZuppichini)](https://github.com/anuraghazra/github-readme-stats)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FrancescoSaverioZuppichini.count_visitors)
-
